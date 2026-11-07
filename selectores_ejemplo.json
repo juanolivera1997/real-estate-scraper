@@ -1,0 +1,15 @@
+{
+  "card": "div.posting-card",
+  "title": "h3.posting-title",
+  "link": "h3.posting-title a",
+  "operation": "span.posting-operation",
+  "property_type": "span.posting-type",
+  "location": "div.posting-location",
+  "price": "div.posting-price",
+  "area": "span.feature-surface",
+  "bedrooms": "span.feature-rooms",
+  "bathrooms": "span.feature-baths",
+  "condition": "span.feature-condition",
+  "age": "span.feature-age",
+  "next_page": "a.pagination-next"
+}
