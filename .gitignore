@@ -1,0 +1,8 @@
+Set-Content -Path .gitignore -Value @"
+desktop.ini
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.vscode/
+"@
